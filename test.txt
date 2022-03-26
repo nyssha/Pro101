@@ -1,0 +1,3 @@
+My name is nyssha.
+I am 13 years old.
+'/Users/Dell/Desktop/WhiteHat/C98/test.txt'
